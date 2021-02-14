@@ -1,0 +1,22 @@
+body {
+    width: 100%;
+    margin: 100px;
+    margin-left: 100px;
+    background-color: rgb(128, 67, 128);
+ }
+  
+ #profile-container{
+    max-width: 300px;
+    background-color: rgb(180, 125, 182);
+    border: 4px solid rgb(209, 174, 203);
+    border-radius: 6px;
+ }
+  
+ #profile-image{
+    width: 100%;
+    height: auto;
+ }
+  
+ #profile-name{
+    text-align: center;
+ }
